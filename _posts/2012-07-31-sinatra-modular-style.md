@@ -4,6 +4,8 @@ title: "Структура модульного приложения на Sinatr
 description: ""
 category: code
 tags: [sinatra, ruby]
+post_author: Александр Чайчук
+post_gravatar: 73607c45ffe82abc614c8e28012cf8bd
 ---
 {% include JB/setup %}
 
