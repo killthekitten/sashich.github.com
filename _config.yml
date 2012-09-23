@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Botcamp
-tagline: Команда разработчиков Ruby on Rails
+tagline: Команда разработчиков
 author :
   name : Botcamp
   email : 1@botcamp.ru
-#  github : sashich
-#  twitter : sashich
-#  feedburner : feedname
+  github : sashich
+  twitter : sashich
+  feedburner : botcamp
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
