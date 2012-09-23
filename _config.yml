@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Botcamp.io
-tagline: Быстрый старт
+title : Botcamp
+tagline: Быстрый старт вашим идеям
 author :
   name : Александр Чайчук
-  email : a.chaychuk@gmail.com
-  github : sashich
-  twitter : sashich
-  feedburner : feedname
+  email : 1@botcamp.ru
+#  github : sashich
+#  twitter : sashich
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -81,13 +81,13 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : iobotcamp
     livefyre :
       site_id : 123
     intensedebate :
       account : 123abc
     facebook :
-      appid : 123
+      appid : 479544472074604
       num_posts: 5
       width: 580
       colorscheme: light
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-23454365-1'
     getclicky :
       site_id :
     mixpanel :
@@ -111,7 +111,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : facebook
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
