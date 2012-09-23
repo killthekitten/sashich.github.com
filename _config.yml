@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Botcamp
-tagline: Быстрый старт вашим идеям
+tagline: Команда разработчиков Ruby on Rails
 author :
-  name : Александр Чайчук
+  name : Botcamp
   email : 1@botcamp.ru
 #  github : sashich
 #  twitter : sashich
