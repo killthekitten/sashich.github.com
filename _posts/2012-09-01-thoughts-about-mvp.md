@@ -9,7 +9,7 @@ post_gravatar: 73607c45ffe82abc614c8e28012cf8bd
 ---
 {% include JB/setup %}
 
-MVP - это аббревиатура от Minimum Viable Product. Это термин, кажется, в обиход стартаперов ввел Стив Бланк в своей книге [Four Steps For Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/0976470705) Я не читал книгу, но с концепцией Customer Development знаком из блога Бланка и книги Lean Start-Up. 
+MVP - это аббревиатура от Minimum Viable Product. Кажется, этот термин в обиход стартаперов ввел Стив Бланк в своей книге [Four Steps For Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/0976470705) Я не читал книгу, но с концепцией Customer Development знаком из блога Бланка и книги Lean Start-Up. 
 
 Иногда у меня выходит спор с коллегами, что же считать MVP, стоит ли включать даннную фичу в текущий релиз и стоит ли браться за реализацию каких-либо фич. Часто в споре проскакивает аргумент: "Блин, это не MVP, давай проще." Я почти всегда согласен, что надо проще, но не всегда согласен, что __проще__ и есть MVP. 
 
