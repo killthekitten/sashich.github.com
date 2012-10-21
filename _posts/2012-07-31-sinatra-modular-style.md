@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Структура модульного приложения на Sinatra"
-description: ""
+description: "Приложения на Sinatra можно писать используя два стиля: модульный и классический. Разница между ними небольшая"
 category: code
 tags: [sinatra, ruby]
 post_author: Александр Чайчук
